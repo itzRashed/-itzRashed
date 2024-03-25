@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/itzRashed/count.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=itzRashed&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itzRashed&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzRashed&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
