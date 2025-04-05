@@ -1,6 +1,13 @@
 # -itzRashed
-I am a forth-year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Science and Engineering. 
-I am an open-source Contributor and a web development addict.
+<br>
+Fresh Computer Science and Engineering graduate (BSc.) from Bangladesh University of Business and Technology (BUBT), specializing in Artificial Intelligence. <br>
+Passionate about building intelligent systems and eager to transition into a Machine Learning Engineer role.
+<be>
+ 
+🚀 Goals
+<li> Contributing to open-source ML projects</li>
+<li> Solving real-world problems with scalable AI solutions</li>
+<li> Continuously learning MLOps, cloud deployment (AWS/GCP), and advanced ML techniques</li>
 
 <!--
 **itzRashed/Md. Rashed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
